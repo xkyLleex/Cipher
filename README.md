@@ -1,10 +1,7 @@
-# Cipher
-Decode Or Encode program      
-
-### How to use?      
-just download the exe file and open it.     
+# DeCode.zip v1.0
+Microsoft Visual Studio     
+.NET Framework 4.6.1
       
-      
-### Is dangerous?   
-I swear it very safe.     
-if you don't believe me.You can check program origin file!
+This program just for fun and practice.       
+If have a question or program have a bug        
+Please tell me,I will fix the problem.Thanks        
